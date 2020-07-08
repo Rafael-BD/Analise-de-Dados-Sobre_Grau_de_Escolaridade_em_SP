@@ -1,6 +1,8 @@
 # Trabalho de análise de dados públicos sobre o grau de escolaridade das pessoas nos municípios do estado de São Paulo
 
-# feito por Rafael Bettini Dias e Brenno Richard Rabelo de Almeida
+Feito por:
+Rafael Bettini Dias
+Brenno Richard Rabelo de Almeida
 
 Fonte:
 IBGE - Censos Demográficos
